@@ -38,21 +38,18 @@
 {% endif %}
 {% set css_files = css_files + theme_css_files + bootswatch_css_custom %}
 
-{% set script_files = script_files + [
-    '_static/js/jquery-1.11.0.min.js',
-    '_static/js/jquery-fix.js',
+{% set script_files = [
+    '_static/jquery.js',
+    '_static/translations.js',
     '_static/bootstrap-' + bootstrap_version + '/js/bootstrap.min.js',
     '_static/bootstrap-sphinx.js'
-  ]
-%}
+  ] %}
 
 {%- set render_sidebar = (not embedded) and (not theme_nosidebar|tobool) and sidebars %}
 
 {%- set bs_content_width = render_sidebar and "9" or "12"%}
 
-{%- block doctype -%}
-<!DOCTYPE html>
-{%- endblock %}
+{%- block doctype -%}<!DOCTYPE html>{%- endblock %}
 
 {# Sidebar: Rework into our Bootstrap nav section. #}
 {% macro navBar() %}
@@ -114,27 +111,11 @@
 {%- block footer %}
 <footer class="footer">
   <div class="container">
-    <p class="pull-right">
-      {% if theme_source_link_position == "footer" %}
-        {% include "sourcelink.html" %}
-      {% endif %}
-    </p>
+    <p class="pull-right">{% if theme_source_link_position == "footer" %}{% include "sourcelink.html" %}{% endif %}</p>
     <p>
-    {%- if show_copyright %}
-      {%- if hasdoc('license') %}
-        {% trans path=pathto('license')|e %}<a href="{{ path }}">版权说明</a>{% endtrans %}
-      {%- else %}
-        {% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}
-      {%- endif %}
-    {%- endif %}
-    本站为个人网站，不代表官方，内容仅供参考。
-
-    {%- if last_updated %}
-      {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}
-    {%- endif %}
-    {%- if show_sphinx %}
-      {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}<br/>
-    {%- endif %}
+      {%- if hasdoc('license') %}{% trans path=pathto('license')|e %}<a href="{{ path }}">版权说明</a>{% endtrans %}{%- else %}{% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}.{% endtrans %}{%- endif %} 本站为个人网站，不代表官方，内容仅供参考。
+    {%- if last_updated %}{% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}{%- endif %}
+    {%- if show_sphinx %}{% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}{%- endif %}
     </p>
   </div>
 </footer>
