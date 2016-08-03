@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 2
 
+   public-bikes
    yikatong
    intercampus-bus
    subway-lx
