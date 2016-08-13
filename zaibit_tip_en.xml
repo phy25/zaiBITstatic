@@ -1,0 +1,247 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="zh-cn">
+  <siteinfo>
+    <sitename>在北理贴士</sitename>
+    <dbname>phytwofi_mysql</dbname>
+    <base>http://www.zaibit.com/tip/%E9%A6%96%E9%A1%B5</base>
+    <generator>MediaWiki 1.25.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">媒体文件</namespace>
+      <namespace key="-1" case="first-letter">特殊</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">讨论</namespace>
+      <namespace key="2" case="first-letter">用户</namespace>
+      <namespace key="3" case="first-letter">用户讨论</namespace>
+      <namespace key="4" case="first-letter">项目</namespace>
+      <namespace key="5" case="first-letter">项目讨论</namespace>
+      <namespace key="6" case="first-letter">文件</namespace>
+      <namespace key="7" case="first-letter">文件讨论</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki讨论</namespace>
+      <namespace key="10" case="first-letter">模板</namespace>
+      <namespace key="11" case="first-letter">模板讨论</namespace>
+      <namespace key="12" case="first-letter">帮助</namespace>
+      <namespace key="13" case="first-letter">帮助讨论</namespace>
+      <namespace key="14" case="first-letter">分类</namespace>
+      <namespace key="15" case="first-letter">分类讨论</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Airport Bus</title>
+    <ns>0</ns>
+    <id>33</id>
+    <revision>
+      <id>104</id>
+      <timestamp>2015-09-23T13:47:09Z</timestamp>
+      <contributor>
+        <username>Phy</username>
+        <id>1</id>
+      </contributor>
+      <comment>Translated</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1179">[[zh:机场巴士]]
+Before boarding the airport bus, you should buy a ticket by cash from the ticket office (transport card are not accepted). The luggage would be put in the front of the bus after being labelled.
+
+== Zhongguancun Campus ==
+From ''Friendship Hotel Stop'' within walking distance to the campus, you can easily go to Beijing International Airport, or arrive at the campus from the airport.
+
+The busline is Line 4 (Dest: GONGZHUFEN), whose ticket price is RMB ￥24.
+
+== Liangxiang Campus ==
+To go to the airport, you can take the subway to Beijing West Railway Station or LIULI Bridge, and transfer to the airport bus. It is the same when you'd like to go to the campus from the airport.
+
+The available buslines are as follows:
+
+* '''West Railway Station South Square''' Line 7 (Terminal), RMB ￥24 (In total RMB ￥30 with the transit subway fare)
+* '''West Railway Station North Square''' Line 15, RMB ￥24 (In total RMB ￥30 with the transit subway fare)
+* '''LIULI Bridge Hub''' Line 15 (Terminal), RMB ￥27 (In total RMB ￥33 with the transit subway fare)
+
+== Reference ==
+For more buslines, check out at http://www.bcia.com.cn/traffic/airbus/table.shtml</text>
+      <sha1>op4q185v4k31ziha203jv4pxwuzkkgn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Student Transport Card</title>
+    <ns>0</ns>
+    <id>10</id>
+    <revision>
+      <id>148</id>
+      <parentid>147</parentid>
+      <timestamp>2015-09-29T04:32:30Z</timestamp>
+      <contributor>
+        <username>Phy</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Get cards */Lost != lose</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3968">[[zh:学生公交卡]]
+Students can enjoy a 75% discount when travelling on Beijing's bus service, with a student transport card ''（市政交通一卡通）'' (For example, a 2-yuan journey only needs 0.5 yuan with the discount). If you use a normal transport card, the discount is 50% off.
+
+Note that not all buses in Beijing can use the transport card for payment or have a discount with it, like the tourist busline and the business busline, operated by Beijing Public Transport Limited.
+
+In other aspects, a student transport card enjoys the same discount as the normal one. For example, in subway, the discount takes effect when the monthly total subway expenditure recorded on the card reaches certain value.
+
+Remember, when using any Beijing's transport card, one people can use only one card at a time, instead of paying everyone's fare with one card.
+
+== Recharging ==
+
+The student card can only be recharged from card recharging outlets of Beijing Public Transport Limited. The student ID ''(not the green card! It's with a brown cover)'' of the card owner should be presented to the staff when recharging.
+
+You can see those outlets here (All outlets listed are OK to process student card): http://www.bjbus.com/home/fun_static_page.php?uSec=00000160&amp;uSub=00000164 (Chinese)
+
+For Liangxiang Campus, you can go to the terminal of Bus 616, BEILUYUAN, to recharge your student card. Take Bus 环1外环 from the campus to 北潞园 stop. Walk across the overpass after you get off. Then turn left after you leave the overpass. Go straight, and turn left at the crossing, and walk straight about five minutes until you see the outlet.&lt;ref&gt;From Sunshine Service http://mp.weixin.qq.com/s?__biz=MjM5ODU5NjI1Mg==&amp;mid=208034470&amp;idx=1&amp;sn=05669ef228eb07e887c0416ab9596daa&lt;/ref&gt;
+
+There is a better choice: Sunshine Service helps recharge your student transport card every week. Just go to their office, give them your card, student ID and the cash, and after one week, you can get your card just inside the campus. For more infomation, check out their WeChat official account (search &quot;阳光服务队&quot;, and reply &quot;公交卡&quot;).
+
+You are unable to recharge the student card with self-service machines (For example, beverage can recycle machine and ATM). The normal transport card can be recharged in subway, self-service machines and some stores.
+
+== Renewal and the deposit ==
+
+The expiry date of our student transport cards is September 30th of the next year of your current schooling year (For example, you came to BIT in 2014, and got your transport card in March 2016, then the expiry date is Sept. 30th, 2016; you did your renewal in Sept. 2016, then the new expiry date is Sept. 30th, 2017). 
+
+You need to renew your student card before it expired, or you may get stuck when using the card.
+
+You should take '''your student ID registered in the new semester (with a stamp on it), your ID card and your student transport card''' to the outlets of Beijing Public Transport Limited by yourself to renew your card. You can also recharge your card when renewing it.
+
+The deposit of all the transport card is RMB20 each, no matter it is a student card or not. You can get it back when returning the transport card.
+
+== Get cards ==
+
+You have to wait for the school to transfer your card request to the Public Transport Limited once a semester. Just keep an eye on announcements in the class or from your counsellor, and at that time you can submit the card request to the school. The process of card request takes many weeks. 
+
+When not geting a student card, you can easily get a normal transport card in the subway tickets counter, to make your journey convenient.
+
+Any transport card cannot be reported of loss, thus the money inside the card cannot be refunded if you lose it. If you lose your student transport card and need a new one, just go through the new card request progress, and pretend as if you hadn't had a card before.
+
+== Reference ==
+&lt;references /&gt;</text>
+      <sha1>q9p0jopu0yf5vlkr0z287jga70a1d21</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Campus Bus/ZGC-LX</title>
+    <ns>0</ns>
+    <id>38</id>
+    <revision>
+      <id>155</id>
+      <timestamp>2015-09-30T15:41:10Z</timestamp>
+      <contributor>
+        <username>Phy</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created the page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2303">[[zh:班车/中关村-良乡]]
+Campus bus fare: Teacher/Staff RMB 10; Student RMB 6. Only accepts campus card for payment.
+
+Teachers and staff have priority to take the bus, so please let teachers get on the bus first. During exam weeks, there will be extra buses, some of which carry teachers only.
+
+For any changes of the timetable (usually on exam weeks and vacations), check out jwc.bit.edu.cn, www.bit.edu.cn and the notices at the campus bus stations.
+
+__TOC__
+
+== Zhongguancun &gt; Liangxiang ==
+
+Starts at: Zhongguancun Campus Bus Station (West of 14th International Students Apartment, south of Student Service Buliding, east of Campus West Road)
+
+{| class=&quot;wikitable&quot;
+|+During the term
+|-
+! Day !! Departure !! Arrival
+|-
+|rowspan=&quot;9&quot;| Mon-Fri || 06:40 || 07:40
+|-
+| 08:00* || 09:00
+|-
+| 10:10 || 11:00
+|-
+| 11:40 || 12:30
+|-
+| 12:00 || 13:00
+|-
+| 13:40 || 14:40
+|-
+| 16:10 || 17:00
+|-
+| 18:00* || 19:00
+|-
+| 21:10 || 22:00
+|-
+| Friday || 17:30 || 18:20
+|-
+|rowspan=&quot;3&quot;| Sat-Sun || 07:30 || 08:20
+|-
+| 13:30 || 14:20
+|-
+| 20:00 || 20:50
+|}
+&lt;nowiki&gt;* At these time, there are 2 buses on service, while at unlabelled time there is only 1 bus.&lt;/nowiki&gt;
+
+{| class=&quot;wikitable&quot;
+|+During the holiday
+|-
+! Departure !! Arrival
+|-
+| 08:00 || 08:50
+|-
+| 15:00 || 15:50
+|}
+
+== Liangxiang &gt; Zhongguancun ==
+
+Starts at: Southeast corner of Campus Hospital (north campus), northwest corner of Chemistry Experimental Center (south campus)
+
+{| class=&quot;wikitable&quot;
+|+During the term
+|-
+! Day !! Departure !! Arrival
+|-
+|rowspan=&quot;9&quot;| Mon-Fri || 06:40 || 07:40
+|-
+| 08:00 || 09:00
+|-
+| 10:10 || 11:00
+|-
+| 12:00 || 13:00
+|-
+| 12:50 || 13:40
+|-
+| 13:40 || 14:40
+|-
+| 16:10* || 17:00
+|-
+| 18:00* || 19:00
+|-
+| 21:10 || 22:00
+|-
+| Friday || 18:30 || 19:20
+|-
+|rowspan=&quot;3&quot;| Sat-Sun || 08:30 || 09:20
+|-
+| 14:30 || 15:20
+|-
+| 21:00 || 21:50
+|}
+&lt;nowiki&gt;* At these time, there are 2 buses on service, while at unlabelled time there is only 1 bus.&lt;/nowiki&gt;
+
+{| class=&quot;wikitable&quot;
+|+During the holiday
+|-
+! Departure !! Arrival
+|-
+| 09:00 || 09:50
+|-
+| 16:00 || 16:50
+|}
+
+== Reference ==
+* [http://weixin.info.bit.edu.cn/schoolBus/wechatSchoolBus?keyword=%E4%B8%AD%E5%85%B3%E6%9D%91-%E8%89%AF%E4%B9%A1 北京理工大学微信企业号 班车查询]
+* [http://www.bit.edu.cn/ggfw/bcfw/index.htm 北京理工大学 班车服务]</text>
+      <sha1>o50pc20rz8fzk4mn1g3ocxkgrjqauec</sha1>
+    </revision>
+  </page>
+</mediawiki>

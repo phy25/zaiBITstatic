@@ -11,11 +11,11 @@
 	<div class="row">
 		<div class="col-sm-4 col-sm-offset-1">
 			<strong>中关村校区：中心花园</strong>
-			<a href="attractions.html#zhongguancun" class="thumbnail"><img alt="中关村校区：中心花园" src="../_static/bit-zgc-central-garden.jpg"></a>
+			<a href="attractions.html#visit-attractions-zgc" class="thumbnail"><img alt="中关村校区：中心花园" src="../_static/bit-zgc-central-garden.jpg"></a>
 		</div>
 		<div class="col-sm-4 col-sm-offset-2">
 			<strong>良乡校区：北湖</strong>
-			<a href="attractions.html#liangxiang" class="thumbnail"><img alt="良乡校区：北湖" src="../_static/bit-lx-north-lake.jpg"></a>
+			<a href="attractions.html#visit-attractions-lx" class="thumbnail"><img alt="良乡校区：北湖" src="../_static/bit-lx-north-lake.jpg"></a>
 		</div>
 	</div>
 
