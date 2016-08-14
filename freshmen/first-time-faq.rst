@@ -5,6 +5,8 @@
 
 .. contents:: 目录
 
+.. （最新版本请到这里查看 http://zaibit.com/freshmen/first-time-faq.html）
+
 入学考试
 ---------
 
