@@ -110,6 +110,10 @@ var _hmt = _hmt || [];
   <div class="row">
     {%- block sidebar1 %}{{ bsidebar() }}{% endblock %}
     <div class="{{ bs_span_prefix }}{{ bs_content_width }} content">
+      <div class="alert alert-warning">
+        <p><strong>本页面信息未在 2017 年审阅，情况可能与实际不符！</strong></p>
+        <p>您正在查看的本站的向导信息服务将停止提供，删除时间待定。<a href="/">具体请点这里查看首页说明。</a>感谢您对本站的支持和陪伴！</p>
+      </div>
       {% block body %}{% endblock %}
     </div>
     {% block sidebar2 %} {# possible location for sidebar #} {% endblock %}
